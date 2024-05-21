@@ -1,6 +1,6 @@
 # NCGLF2 : Network combining global and local features for fusion of multisource remote sensing data 
 
-Bing Tu, [Qi Ren](https://github.com/renqi1998/NCGLF2), Jun Li, Zhaolou Cao, Yunyun Chen, Antonio Plaza, "NCGLF2 : Network combining global and local features for fusion of multisource remote sensing data", Information Fusion, 2023
+Bing Tu, [Qi Ren](https://github.com/renqi1998), Jun Li, Zhaolou Cao, Yunyun Chen, Antonio Plaza, "NCGLF2 : Network combining global and local features for fusion of multisource remote sensing data", Information Fusion, 2023
 
 [[paper](https://pdf.sciencedirectassets.com/272144/1-s2.0-S1566253523X00128/1-s2.0-S1566253523005080/main.pdf)] 
 
