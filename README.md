@@ -46,6 +46,14 @@ python main.py
 |   Augsburg   | 95.68(0.32) | 84.94(1.45) | 93.80(0.45) |
 | GRSS-DFC-2007 | 95.47(0.24) | 97.08(0.16) | 92.90(0.37) |
 
+## Datasets
+The multimodal data sets include Houston 2013, Augsburg and GRSS-DFC-2007.
+
+https://www.alipan.com/s/AD2QD9CfDBx
+
+action code: q49a
+
+
 ## Citation
 
 If you find the code helpful in your research or work, please cite the following paper(s).
