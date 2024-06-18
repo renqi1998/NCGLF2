@@ -49,7 +49,9 @@ python main.py
 ## Datasets
 The multimodal data sets include Houston 2013, Augsburg and GRSS-DFC-2007.
 
-链接: https://pan.baidu.com/s/1k8seLg-Uqp1RxGtUTCdtRw?pwd=2023 提取码: 2023 
+Baidu Disk: https://pan.baidu.com/s/1k8seLg-Uqp1RxGtUTCdtRw?pwd=2023 
+
+code: 2023 
 
 
 ## Citation
