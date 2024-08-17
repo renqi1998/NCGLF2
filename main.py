@@ -54,7 +54,7 @@ def main(patchsize, epoches):
     # criterion
     criterion = FocalLoss().cuda()
     # optimizer
-    optimizer = torch.optim.Adam(model.parameters(), lr=1e-3)
+    optimizer = torch.optim.Adam(model.parameters(), lr=1e-4)
     scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=epoches // 5, gamma=0.9)
 
     best_acc = -1
